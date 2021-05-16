@@ -1,6 +1,6 @@
 # Adversarial Attack Resilient 6D Pose Estimation using Dense Fusion 
 
-Project Video: [Link](https://youtu.be/yFGIBgiIVOs)
+Project Video:
 
 [![Alt text](https://img.youtube.com/vi/yFGIBgiIVOs/0.jpg)](https://youtu.be/yFGIBgiIVOs)
 
