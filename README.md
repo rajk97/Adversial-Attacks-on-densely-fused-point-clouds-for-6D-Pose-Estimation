@@ -2,6 +2,9 @@
 
 Project Video: [Link](https://youtu.be/yFGIBgiIVOs)
 
+[![Alt text](https://user-images.githubusercontent.com/54212099/118355387-bccb3a80-b53d-11eb-83a6-458a4db04b7d.png)](https://www.youtube.com/watch?v=VID)
+
+
 ## Objectives
 
 - Implement dense fusion based 6D Pose estimation network
