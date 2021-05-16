@@ -2,11 +2,7 @@
 
 Project Video:
 
-{% include youtubePlayer.html id=page.yFGIBgiIVOs %}
-
-
 [![Alt text](https://img.youtube.com/vi/yFGIBgiIVOs/0.jpg)](https://youtu.be/yFGIBgiIVOs)
-
 
 ## Objectives
 
